@@ -124,7 +124,7 @@ section {
     justify-content: center;
     gap: 5rem;
     background-color: var(--bg-color);
-    background-image: url(/images/landing_wallpaper.jpeg);
+    background-image: url(images/landing_wallpaper.jpeg);
     background-position: center;
     background-size: cover;
     min-height: 100vh;
